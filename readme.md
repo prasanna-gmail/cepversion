@@ -1,5 +1,5 @@
 ## commands
-firebase deploy --only hosting -m "Deploying 101 version"
+firebase deploy --only hosting -m "100 600 601"
 
 ## usage for cep version
 
