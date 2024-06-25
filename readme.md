@@ -13,9 +13,10 @@ curl -L https://cepversion.web.app/main.html
 curl -L https://cepversion.web.app/content.html
 ```
 
-## versions
-### 2024-06-25
-content 100
-main 600
-revision 601
+## usage for cep content revision
+
+```
+curl -L https://cepversion.web.app/revision.html
+```
+
 
